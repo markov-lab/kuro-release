@@ -2,5 +2,16 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>Kuro Updates</title>
+            <item>
+      <title>Version 0.9.0</title>
+      <pubDate>Wed, 25 Mar 2026 12:33:14 +0000</pubDate>
+      <sparkle:version>0.9.0</sparkle:version>
+      <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+          url="https://github.com/markov-lab/kuro-release/releases/download/v0.9.0/Kuro.dmg"
+          sparkle:edSignature="c0cRBjakNcTu1fbLbg/SQAudF+ZXpqmzzdZLhM2W0g0v0G2uoOswsp97hFpJJwd7CHCTOLP6BYIY8BcrhUrYBA==" length="2974236"
+          type="application/octet-stream" />
+  </item>
     </channel>
 </rss>
