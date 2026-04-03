@@ -28,14 +28,14 @@
   </item>
             <item>
       <title>Version 0.9.6</title>
-      <pubDate>Fri, 03 Apr 2026 14:59:31 +0000</pubDate>
+      <pubDate>Fri, 03 Apr 2026 16:02:30 +0000</pubDate>
       <sparkle:version>0.9.6</sparkle:version>
       <sparkle:shortVersionString>0.9.6</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <sparkle:criticalUpdate />
       <enclosure
           url="https://github.com/markov-lab/kuro-release/releases/download/v0.9.6/Kuro.dmg"
-          sparkle:edSignature="CgwCLQQ7q+5eLpm72t+obxPuozlOonUIJJD0l64G/QQjXl+wgzMmUGxFdg9KIBtjl9KZ9L/nqeQdeOPj96ATCw==" length="3143235"
+          sparkle:edSignature="3FBxFG/j9ddAtmJL9RV+s8Fv1Rq5UyLJ+Rgg9bi8WViPG7ECr9+DxyzvsldFmknFkeAHOuwUVKTLZuqKSldOBw==" length="3143251"
           type="application/octet-stream" />
   </item>
     </channel>
