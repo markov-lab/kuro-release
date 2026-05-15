@@ -86,5 +86,17 @@
           sparkle:edSignature="4uVmebFmd1rrYSSYJRV3dq070ea5xFZCshokC0YJqPqjzL2IQsezxBLfOP7xEu9kWw1XehH9hZlj+qVUB5yjCQ==" length="3238121"
           type="application/octet-stream" />
   </item>
+            <item>
+      <title>Version 0.9.11</title>
+      <pubDate>Fri, 15 May 2026 19:44:22 +0000</pubDate>
+      <sparkle:version>0.9.11</sparkle:version>
+      <sparkle:shortVersionString>0.9.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:criticalUpdate />
+      <enclosure
+          url="https://github.com/markov-lab/kuro-release/releases/download/v0.9.11/Kuro.dmg"
+          sparkle:edSignature="UGbCNa5nLSv/h2bEHmTKtcyXHJRV5jIGllWHbpml4gexUR7Kb2zAJMwAgfWakJE8OG2AYCQ1GDHCPcUE4S/TCQ==" length="3242454"
+          type="application/octet-stream" />
+  </item>
     </channel>
 </rss>
