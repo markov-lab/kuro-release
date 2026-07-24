@@ -131,5 +131,14 @@
       <sparkle:criticalUpdate />
       <enclosure url="https://github.com/markov-lab/kuro-release/releases/download/v1.1.0/Kuro.dmg" sparkle:edSignature="8zeYRbfwDJuvCV1OxHT4DwVjiJI/Dm+QwlDIH9JZHlzse+s5rG3QifcmkNm/IoJPK6lrMA7+CI5i6B0OAajgBw==" length="3152961" type="application/octet-stream" />
   </item>
+            <item>
+      <title>Version 1.1.1</title>
+      <pubDate>Fri, 24 Jul 2026 13:51:52 +0000</pubDate>
+      <sparkle:version>1.1.1</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:criticalUpdate />
+      <enclosure url="https://github.com/markov-lab/kuro-release/releases/download/v1.1.1/Kuro.dmg" sparkle:edSignature="ywYZEfahmZa6Excndpp7V6gX6FEAdpTA3K79Lh8xDtQYqgm0J3d3nfs/n+5n1gsLbfU1iR1Hq9YMALOu3T0GDA==" length="3153621" type="application/octet-stream" />
+  </item>
     </channel>
 </rss>
